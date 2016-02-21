@@ -16,7 +16,7 @@
  	- [x] send player id, status as Already registered in response
  
  
- ###Possible Errors
+###Possible Errors
  
   - Invalid Access token
   - Invalid player id
